@@ -48,6 +48,6 @@ Para suporte, mande um e-mail para brunoalmeida0805@gmail.com Grato!
 ## 🔎 My LinkedIn 
 <a href="https://www.linkedin.com/in/bruno-almeida-deoliveira"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
-<h3 align="center">Developed by Bruno Oliveira ☕</h3>
+<h3 align="center">Developed by Bruno Oliveira. ☕</h3>
 
 
