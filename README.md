@@ -38,7 +38,7 @@ $ git clone https://github.com/bruno-deoliveira/trene.me.git
 $ cd trene.me
 ```
 ## 📝 Licença
-Esse projeto está sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](https://github.com/bruno-deoliveira/treine.me/blob/main/LICENSE) para mais detalhes.
 
 ## 📞 Suporte
 Para suporte, mande um e-mail para brunoalmeida0805@gmail.com Grato!
@@ -49,6 +49,3 @@ Para suporte, mande um e-mail para brunoalmeida0805@gmail.com Grato!
 <h3 align="center">Developed by Bruno Oliveira ☕</h3>
 
 
-
-
-ml5 css3 rocketseat rocketseat-desafio01 rocketseat-desafios rocketseat-explorer rocketseat-e
