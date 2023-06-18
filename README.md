@@ -6,7 +6,9 @@
 </p>
 
 ## 💻 Projeto
-Projeto 02 do Explorer da Rocketseat, cujo objetivo foi recriar a aplicação "treine.me" utilizando HTML e CSS - Explore Rocketseat
+Projeto 02 do modulo Introdução ao HTML e CSS - Explore Rocketseat
+
+Nesse desafio, foi recriado uma aplicação "treine.me" utilizando HTML e CSS, a partir de um layout pronto no Figma, para fortalecer alguns conceitos aprendidos:
 
 - Estruturação do projeto HTML;
 - Uso de tags HTML mais comuns;
